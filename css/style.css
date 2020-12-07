@@ -1,0 +1,14 @@
+h1 {
+  color: #800c0c;
+}
+#executorName{
+  color: red;
+}
+
+#projectName{
+  color: #12a10f;
+}
+
+.head{
+  text-align: center;
+}
